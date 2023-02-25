@@ -1,1 +1,2 @@
-# GROMACS-Tutorial-Protein-Simulation-and-Analysis-
+# GROMACS Tutorial to simulate protein and perform analysis on the simulation trajectory.
+## Coming soon .... 
